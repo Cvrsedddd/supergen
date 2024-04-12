@@ -1,0 +1,123 @@
+2023-10-24T15:47:46: PM2 log: ===============================================================================
+2023-10-24T15:47:46: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-10-24T15:47:46: PM2 log: Time                 : Tue Oct 24 2023 15:47:46 GMT+0100 (British Summer Time)
+2023-10-24T15:47:46: PM2 log: PM2 version          : 5.3.0
+2023-10-24T15:47:46: PM2 log: Node.js version      : 20.4.0
+2023-10-24T15:47:46: PM2 log: Current arch         : x64
+2023-10-24T15:47:46: PM2 log: PM2 home             : y
+2023-10-24T15:47:46: PM2 log: PM2 PID file         : C:\Users\edwar\OneDrive\Desktop\SUPERGEN\y\pm2.pid
+2023-10-24T15:47:46: PM2 log: RPC socket file      : \\.\pipe\rpc.sock
+2023-10-24T15:47:46: PM2 log: BUS socket file      : \\.\pipe\pub.sock
+2023-10-24T15:47:46: PM2 log: Application log path : C:\Users\edwar\OneDrive\Desktop\SUPERGEN\y\logs
+2023-10-24T15:47:46: PM2 log: Worker Interval      : 30000
+2023-10-24T15:47:46: PM2 log: Process dump file    : C:\Users\edwar\OneDrive\Desktop\SUPERGEN\y\dump.pm2
+2023-10-24T15:47:46: PM2 log: Concurrent actions   : 2
+2023-10-24T15:47:46: PM2 log: SIGTERM timeout      : 1600
+2023-10-24T15:47:46: PM2 log: ===============================================================================
+2023-10-24T15:47:46: PM2 log: App [index:0] starting in -fork mode-
+2023-10-24T15:47:46: PM2 log: App [index:0] online
+2023-10-24T15:48:48: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2023-10-24T15:48:48: PM2 log: App [index:0] starting in -fork mode-
+2023-10-24T15:48:48: PM2 log: App [index:0] online
+2023-10-24T15:49:34: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2023-10-24T15:49:34: PM2 log: App [index:0] starting in -fork mode-
+2023-10-24T15:49:34: PM2 log: App [index:0] online
+2023-10-24T15:50:47: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2023-10-24T15:50:47: PM2 log: App [index:0] starting in -fork mode-
+2023-10-24T15:50:47: PM2 log: App [index:0] online
+2023-10-24T15:50:47: PM2 error: Error caught while calling pidusage
+2023-10-24T15:50:47: PM2 error: Error: No matching pid found
+2023-10-24T15:51:17: PM2 log: Stopping app:index id:0
+2023-10-24T15:51:17: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2023-10-24T15:51:17: PM2 log: pid=7116 msg=process killed
+2023-10-24T15:51:17: PM2 log: PM2 successfully stopped
+2023-10-24T15:52:01: PM2 log: ===============================================================================
+2023-10-24T15:52:01: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-10-24T15:52:01: PM2 log: Time                 : Tue Oct 24 2023 15:52:01 GMT+0100 (British Summer Time)
+2023-10-24T15:52:01: PM2 log: PM2 version          : 5.3.0
+2023-10-24T15:52:01: PM2 log: Node.js version      : 20.4.0
+2023-10-24T15:52:01: PM2 log: Current arch         : x64
+2023-10-24T15:52:01: PM2 log: PM2 home             : y
+2023-10-24T15:52:01: PM2 log: PM2 PID file         : C:\Users\edwar\OneDrive\Desktop\SUPERGEN\y\pm2.pid
+2023-10-24T15:52:01: PM2 log: RPC socket file      : \\.\pipe\rpc.sock
+2023-10-24T15:52:01: PM2 log: BUS socket file      : \\.\pipe\pub.sock
+2023-10-24T15:52:01: PM2 log: Application log path : C:\Users\edwar\OneDrive\Desktop\SUPERGEN\y\logs
+2023-10-24T15:52:01: PM2 log: Worker Interval      : 30000
+2023-10-24T15:52:01: PM2 log: Process dump file    : C:\Users\edwar\OneDrive\Desktop\SUPERGEN\y\dump.pm2
+2023-10-24T15:52:01: PM2 log: Concurrent actions   : 2
+2023-10-24T15:52:01: PM2 log: SIGTERM timeout      : 1600
+2023-10-24T15:52:01: PM2 log: ===============================================================================
+2023-10-24T15:52:01: PM2 log: App [index:0] starting in -fork mode-
+2023-10-24T15:52:01: PM2 log: App [index:0] online
+2023-10-24T15:53:12: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2023-10-24T15:53:12: PM2 log: App [index:0] starting in -fork mode-
+2023-10-24T15:53:12: PM2 log: App [index:0] online
+2023-10-24T15:54:15: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2023-10-24T15:54:15: PM2 log: App [index:0] starting in -fork mode-
+2023-10-24T15:54:15: PM2 log: App [index:0] online
+2023-10-24T16:18:55: PM2 log: Stopping app:index id:0
+2023-10-24T16:18:56: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2023-10-24T16:18:56: PM2 log: pid=10884 msg=process killed
+2023-10-24T16:18:56: PM2 log: PM2 successfully stopped
+2023-10-24T16:19:11: PM2 log: ===============================================================================
+2023-10-24T16:19:11: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-10-24T16:19:11: PM2 log: Time                 : Tue Oct 24 2023 16:19:11 GMT+0100 (British Summer Time)
+2023-10-24T16:19:11: PM2 log: PM2 version          : 5.3.0
+2023-10-24T16:19:11: PM2 log: Node.js version      : 20.4.0
+2023-10-24T16:19:11: PM2 log: Current arch         : x64
+2023-10-24T16:19:11: PM2 log: PM2 home             : y
+2023-10-24T16:19:11: PM2 log: PM2 PID file         : C:\Users\edwar\OneDrive\Desktop\SUPERGEN\y\pm2.pid
+2023-10-24T16:19:11: PM2 log: RPC socket file      : \\.\pipe\rpc.sock
+2023-10-24T16:19:11: PM2 log: BUS socket file      : \\.\pipe\pub.sock
+2023-10-24T16:19:11: PM2 log: Application log path : C:\Users\edwar\OneDrive\Desktop\SUPERGEN\y\logs
+2023-10-24T16:19:11: PM2 log: Worker Interval      : 30000
+2023-10-24T16:19:11: PM2 log: Process dump file    : C:\Users\edwar\OneDrive\Desktop\SUPERGEN\y\dump.pm2
+2023-10-24T16:19:11: PM2 log: Concurrent actions   : 2
+2023-10-24T16:19:11: PM2 log: SIGTERM timeout      : 1600
+2023-10-24T16:19:11: PM2 log: ===============================================================================
+2023-10-24T16:19:11: PM2 log: App [index:0] starting in -fork mode-
+2023-10-24T16:19:11: PM2 log: App [index:0] online
+2023-10-24T16:19:29: PM2 log: Stopping app:index id:0
+2023-10-24T16:19:30: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2023-10-24T16:19:30: PM2 log: pid=17820 msg=process killed
+2023-10-24T16:19:30: PM2 log: PM2 successfully stopped
+2023-10-24T16:32:07: PM2 log: ===============================================================================
+2023-10-24T16:32:07: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-10-24T16:32:07: PM2 log: Time                 : Tue Oct 24 2023 16:32:07 GMT+0100 (British Summer Time)
+2023-10-24T16:32:07: PM2 log: PM2 version          : 5.3.0
+2023-10-24T16:32:07: PM2 log: Node.js version      : 20.4.0
+2023-10-24T16:32:07: PM2 log: Current arch         : x64
+2023-10-24T16:32:07: PM2 log: PM2 home             : y
+2023-10-24T16:32:07: PM2 log: PM2 PID file         : C:\Users\edwar\OneDrive\Desktop\SUPERGEN\y\pm2.pid
+2023-10-24T16:32:07: PM2 log: RPC socket file      : \\.\pipe\rpc.sock
+2023-10-24T16:32:07: PM2 log: BUS socket file      : \\.\pipe\pub.sock
+2023-10-24T16:32:07: PM2 log: Application log path : C:\Users\edwar\OneDrive\Desktop\SUPERGEN\y\logs
+2023-10-24T16:32:07: PM2 log: Worker Interval      : 30000
+2023-10-24T16:32:07: PM2 log: Process dump file    : C:\Users\edwar\OneDrive\Desktop\SUPERGEN\y\dump.pm2
+2023-10-24T16:32:07: PM2 log: Concurrent actions   : 2
+2023-10-24T16:32:07: PM2 log: SIGTERM timeout      : 1600
+2023-10-24T16:32:07: PM2 log: ===============================================================================
+2023-10-24T16:32:07: PM2 log: App [index:0] starting in -fork mode-
+2023-10-24T16:32:07: PM2 log: App [index:0] online
+2023-10-24T16:33:00: PM2 log: Stopping app:index id:0
+2023-10-24T16:33:00: PM2 log: App [index:0] exited with code [1] via signal [SIGINT]
+2023-10-24T16:33:00: PM2 log: pid=13432 msg=process killed
+2023-10-24T16:33:00: PM2 log: PM2 successfully stopped
+2023-10-24T16:33:53: PM2 log: ===============================================================================
+2023-10-24T16:33:53: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-10-24T16:33:53: PM2 log: Time                 : Tue Oct 24 2023 16:33:53 GMT+0100 (British Summer Time)
+2023-10-24T16:33:53: PM2 log: PM2 version          : 5.3.0
+2023-10-24T16:33:53: PM2 log: Node.js version      : 20.4.0
+2023-10-24T16:33:53: PM2 log: Current arch         : x64
+2023-10-24T16:33:53: PM2 log: PM2 home             : y
+2023-10-24T16:33:53: PM2 log: PM2 PID file         : C:\Users\edwar\OneDrive\Desktop\SUPERGEN\y\pm2.pid
+2023-10-24T16:33:53: PM2 log: RPC socket file      : \\.\pipe\rpc.sock
+2023-10-24T16:33:53: PM2 log: BUS socket file      : \\.\pipe\pub.sock
+2023-10-24T16:33:53: PM2 log: Application log path : C:\Users\edwar\OneDrive\Desktop\SUPERGEN\y\logs
+2023-10-24T16:33:53: PM2 log: Worker Interval      : 30000
+2023-10-24T16:33:53: PM2 log: Process dump file    : C:\Users\edwar\OneDrive\Desktop\SUPERGEN\y\dump.pm2
+2023-10-24T16:33:53: PM2 log: Concurrent actions   : 2
+2023-10-24T16:33:53: PM2 log: SIGTERM timeout      : 1600
+2023-10-24T16:33:53: PM2 log: ===============================================================================
+2023-10-24T16:33:53: PM2 log: App [index:0] starting in -fork mode-
+2023-10-24T16:33:53: PM2 log: App [index:0] online

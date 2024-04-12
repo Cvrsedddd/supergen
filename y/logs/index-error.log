@@ -1,0 +1,503 @@
+(node:14296) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 interactionCreate listeners added to [Client]. Use emitter.setMaxListeners() to increase limit
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:14672) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 interactionCreate listeners added to [Client]. Use emitter.setMaxListeners() to increase limit
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:14836) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 interactionCreate listeners added to [Client]. Use emitter.setMaxListeners() to increase limit
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:7116) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 interactionCreate listeners added to [Client]. Use emitter.setMaxListeners() to increase limit
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:15768) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 interactionCreate listeners added to [Client]. Use emitter.setMaxListeners() to increase limit
+(Use `node --trace-warnings ...` to show where the warning was created)
+DiscordAPIError[10003]: Unknown Channel
+    at handleErrors (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1072:23)
+    at async SequentialHandler.queueRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:913:14)
+    at async _REST.request (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1218:22)
+    at async GuildChannelManager.delete (C:\Users\edwar\node_modules\discord.js\src\managers\GuildChannelManager.js:498:5)
+    at async TextChannel.delete (C:\Users\edwar\node_modules\discord.js\src\structures\GuildChannel.js:467:5) {
+  requestBody: { files: undefined, json: undefined },
+  rawError: { message: 'Unknown Channel', code: 10003 },
+  code: 10003,
+  status: 404,
+  method: 'DELETE',
+  url: 'https://discord.com/api/v10/channels/1166387715865063516'
+}
+DiscordAPIError[10003]: Unknown Channel
+    at handleErrors (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1072:23)
+    at async SequentialHandler.queueRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:913:14)
+    at async _REST.request (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1218:22)
+    at async GuildChannelManager.delete (C:\Users\edwar\node_modules\discord.js\src\managers\GuildChannelManager.js:498:5)
+    at async TextChannel.delete (C:\Users\edwar\node_modules\discord.js\src\structures\GuildChannel.js:467:5) {
+  requestBody: { files: undefined, json: undefined },
+  rawError: { message: 'Unknown Channel', code: 10003 },
+  code: 10003,
+  status: 404,
+  method: 'DELETE',
+  url: 'https://discord.com/api/v10/channels/1166387715865063516'
+}
+DiscordAPIError[10003]: Unknown Channel
+    at handleErrors (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1072:23)
+    at async SequentialHandler.queueRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:913:14)
+    at async _REST.request (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1218:22)
+    at async GuildChannelManager.delete (C:\Users\edwar\node_modules\discord.js\src\managers\GuildChannelManager.js:498:5)
+    at async TextChannel.delete (C:\Users\edwar\node_modules\discord.js\src\structures\GuildChannel.js:467:5) {
+  requestBody: { files: undefined, json: undefined },
+  rawError: { message: 'Unknown Channel', code: 10003 },
+  code: 10003,
+  status: 404,
+  method: 'DELETE',
+  url: 'https://discord.com/api/v10/channels/1166387715865063516'
+}
+DiscordAPIError[10003]: Unknown Channel
+    at handleErrors (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1072:23)
+    at async SequentialHandler.queueRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:913:14)
+    at async _REST.request (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1218:22)
+    at async GuildChannelManager.delete (C:\Users\edwar\node_modules\discord.js\src\managers\GuildChannelManager.js:498:5)
+    at async TextChannel.delete (C:\Users\edwar\node_modules\discord.js\src\structures\GuildChannel.js:467:5) {
+  requestBody: { files: undefined, json: undefined },
+  rawError: { message: 'Unknown Channel', code: 10003 },
+  code: 10003,
+  status: 404,
+  method: 'DELETE',
+  url: 'https://discord.com/api/v10/channels/1166387695778529320'
+}
+DiscordAPIError[10003]: Unknown Channel
+    at handleErrors (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1072:23)
+    at async SequentialHandler.queueRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:913:14)
+    at async _REST.request (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1218:22)
+    at async GuildChannelManager.delete (C:\Users\edwar\node_modules\discord.js\src\managers\GuildChannelManager.js:498:5)
+    at async TextChannel.delete (C:\Users\edwar\node_modules\discord.js\src\structures\GuildChannel.js:467:5) {
+  requestBody: { files: undefined, json: undefined },
+  rawError: { message: 'Unknown Channel', code: 10003 },
+  code: 10003,
+  status: 404,
+  method: 'DELETE',
+  url: 'https://discord.com/api/v10/channels/1166387695778529320'
+}
+DiscordAPIError[10003]: Unknown Channel
+    at handleErrors (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1072:23)
+    at async SequentialHandler.queueRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:913:14)
+    at async _REST.request (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1218:22)
+    at async GuildChannelManager.delete (C:\Users\edwar\node_modules\discord.js\src\managers\GuildChannelManager.js:498:5)
+    at async TextChannel.delete (C:\Users\edwar\node_modules\discord.js\src\structures\GuildChannel.js:467:5) {
+  requestBody: { files: undefined, json: undefined },
+  rawError: { message: 'Unknown Channel', code: 10003 },
+  code: 10003,
+  status: 404,
+  method: 'DELETE',
+  url: 'https://discord.com/api/v10/channels/1166387695778529320'
+}
+DiscordAPIError[10003]: Unknown Channel
+    at handleErrors (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1072:23)
+    at async SequentialHandler.queueRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:913:14)
+    at async _REST.request (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1218:22)
+    at async GuildChannelManager.delete (C:\Users\edwar\node_modules\discord.js\src\managers\GuildChannelManager.js:498:5)
+    at async TextChannel.delete (C:\Users\edwar\node_modules\discord.js\src\structures\GuildChannel.js:467:5) {
+  requestBody: { files: undefined, json: undefined },
+  rawError: { message: 'Unknown Channel', code: 10003 },
+  code: 10003,
+  status: 404,
+  method: 'DELETE',
+  url: 'https://discord.com/api/v10/channels/1166388251242811534'
+}
+DiscordAPIError[10003]: Unknown Channel
+    at handleErrors (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1072:23)
+    at async SequentialHandler.queueRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:913:14)
+    at async _REST.request (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1218:22)
+    at async GuildChannelManager.delete (C:\Users\edwar\node_modules\discord.js\src\managers\GuildChannelManager.js:498:5)
+    at async TextChannel.delete (C:\Users\edwar\node_modules\discord.js\src\structures\GuildChannel.js:467:5) {
+  requestBody: { files: undefined, json: undefined },
+  rawError: { message: 'Unknown Channel', code: 10003 },
+  code: 10003,
+  status: 404,
+  method: 'DELETE',
+  url: 'https://discord.com/api/v10/channels/1166388251242811534'
+}
+DiscordAPIError[10003]: Unknown Channel
+    at handleErrors (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1072:23)
+    at async SequentialHandler.queueRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:913:14)
+    at async _REST.request (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1218:22)
+    at async GuildChannelManager.delete (C:\Users\edwar\node_modules\discord.js\src\managers\GuildChannelManager.js:498:5)
+    at async TextChannel.delete (C:\Users\edwar\node_modules\discord.js\src\structures\GuildChannel.js:467:5) {
+  requestBody: { files: undefined, json: undefined },
+  rawError: { message: 'Unknown Channel', code: 10003 },
+  code: 10003,
+  status: 404,
+  method: 'DELETE',
+  url: 'https://discord.com/api/v10/channels/1166388251242811534'
+}
+DiscordAPIError[10003]: Unknown Channel
+    at handleErrors (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1072:23)
+    at async SequentialHandler.queueRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:913:14)
+    at async _REST.request (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1218:22)
+    at async GuildChannelManager.delete (C:\Users\edwar\node_modules\discord.js\src\managers\GuildChannelManager.js:498:5)
+    at async TextChannel.delete (C:\Users\edwar\node_modules\discord.js\src\structures\GuildChannel.js:467:5) {
+  requestBody: { files: undefined, json: undefined },
+  rawError: { message: 'Unknown Channel', code: 10003 },
+  code: 10003,
+  status: 404,
+  method: 'DELETE',
+  url: 'https://discord.com/api/v10/channels/1166387737151164488'
+}
+DiscordAPIError[10003]: Unknown Channel
+    at handleErrors (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1072:23)
+    at async SequentialHandler.queueRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:913:14)
+    at async _REST.request (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1218:22)
+    at async GuildChannelManager.delete (C:\Users\edwar\node_modules\discord.js\src\managers\GuildChannelManager.js:498:5)
+    at async TextChannel.delete (C:\Users\edwar\node_modules\discord.js\src\structures\GuildChannel.js:467:5) {
+  requestBody: { files: undefined, json: undefined },
+  rawError: { message: 'Unknown Channel', code: 10003 },
+  code: 10003,
+  status: 404,
+  method: 'DELETE',
+  url: 'https://discord.com/api/v10/channels/1166387737151164488'
+}
+DiscordAPIError[10003]: Unknown Channel
+    at handleErrors (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1072:23)
+    at async SequentialHandler.queueRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:913:14)
+    at async _REST.request (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1218:22)
+    at async GuildChannelManager.delete (C:\Users\edwar\node_modules\discord.js\src\managers\GuildChannelManager.js:498:5)
+    at async TextChannel.delete (C:\Users\edwar\node_modules\discord.js\src\structures\GuildChannel.js:467:5) {
+  requestBody: { files: undefined, json: undefined },
+  rawError: { message: 'Unknown Channel', code: 10003 },
+  code: 10003,
+  status: 404,
+  method: 'DELETE',
+  url: 'https://discord.com/api/v10/channels/1166387737151164488'
+}
+(node:15876) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 interactionCreate listeners added to [Client]. Use emitter.setMaxListeners() to increase limit
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:10884) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 interactionCreate listeners added to [Client]. Use emitter.setMaxListeners() to increase limit
+(Use `node --trace-warnings ...` to show where the warning was created)
+DiscordAPIError[10003]: Unknown Channel
+    at handleErrors (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1072:23)
+    at async SequentialHandler.queueRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:913:14)
+    at async _REST.request (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1218:22)
+    at async GuildChannelManager.delete (C:\Users\edwar\node_modules\discord.js\src\managers\GuildChannelManager.js:498:5)
+    at async TextChannel.delete (C:\Users\edwar\node_modules\discord.js\src\structures\GuildChannel.js:467:5) {
+  requestBody: { files: undefined, json: undefined },
+  rawError: { message: 'Unknown Channel', code: 10003 },
+  code: 10003,
+  status: 404,
+  method: 'DELETE',
+  url: 'https://discord.com/api/v10/channels/1166388876252815370'
+}
+DiscordAPIError[10003]: Unknown Channel
+    at handleErrors (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1072:23)
+    at async SequentialHandler.queueRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:913:14)
+    at async _REST.request (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1218:22)
+    at async GuildChannelManager.delete (C:\Users\edwar\node_modules\discord.js\src\managers\GuildChannelManager.js:498:5)
+    at async TextChannel.delete (C:\Users\edwar\node_modules\discord.js\src\structures\GuildChannel.js:467:5) {
+  requestBody: { files: undefined, json: undefined },
+  rawError: { message: 'Unknown Channel', code: 10003 },
+  code: 10003,
+  status: 404,
+  method: 'DELETE',
+  url: 'https://discord.com/api/v10/channels/1166388876252815370'
+}
+DiscordAPIError[10003]: Unknown Channel
+    at handleErrors (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1072:23)
+    at async SequentialHandler.queueRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:913:14)
+    at async _REST.request (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1218:22)
+    at async GuildChannelManager.delete (C:\Users\edwar\node_modules\discord.js\src\managers\GuildChannelManager.js:498:5)
+    at async TextChannel.delete (C:\Users\edwar\node_modules\discord.js\src\structures\GuildChannel.js:467:5) {
+  requestBody: { files: undefined, json: undefined },
+  rawError: { message: 'Unknown Channel', code: 10003 },
+  code: 10003,
+  status: 404,
+  method: 'DELETE',
+  url: 'https://discord.com/api/v10/channels/1166388876252815370'
+}
+DiscordAPIError[10003]: Unknown Channel
+    at handleErrors (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1072:23)
+    at async SequentialHandler.queueRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:913:14)
+    at async _REST.request (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1218:22)
+    at async GuildChannelManager.delete (C:\Users\edwar\node_modules\discord.js\src\managers\GuildChannelManager.js:498:5)
+    at async TextChannel.delete (C:\Users\edwar\node_modules\discord.js\src\structures\GuildChannel.js:467:5) {
+  requestBody: { files: undefined, json: undefined },
+  rawError: { message: 'Unknown Channel', code: 10003 },
+  code: 10003,
+  status: 404,
+  method: 'DELETE',
+  url: 'https://discord.com/api/v10/channels/1166387952771924092'
+}
+DiscordAPIError[10003]: Unknown Channel
+    at handleErrors (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1072:23)
+    at async SequentialHandler.queueRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:913:14)
+    at async _REST.request (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1218:22)
+    at async GuildChannelManager.delete (C:\Users\edwar\node_modules\discord.js\src\managers\GuildChannelManager.js:498:5)
+    at async TextChannel.delete (C:\Users\edwar\node_modules\discord.js\src\structures\GuildChannel.js:467:5) {
+  requestBody: { files: undefined, json: undefined },
+  rawError: { message: 'Unknown Channel', code: 10003 },
+  code: 10003,
+  status: 404,
+  method: 'DELETE',
+  url: 'https://discord.com/api/v10/channels/1166387952771924092'
+}
+DiscordAPIError[10003]: Unknown Channel
+    at handleErrors (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1072:23)
+    at async SequentialHandler.queueRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:913:14)
+    at async _REST.request (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1218:22)
+    at async GuildChannelManager.delete (C:\Users\edwar\node_modules\discord.js\src\managers\GuildChannelManager.js:498:5)
+    at async TextChannel.delete (C:\Users\edwar\node_modules\discord.js\src\structures\GuildChannel.js:467:5) {
+  requestBody: { files: undefined, json: undefined },
+  rawError: { message: 'Unknown Channel', code: 10003 },
+  code: 10003,
+  status: 404,
+  method: 'DELETE',
+  url: 'https://discord.com/api/v10/channels/1166387952771924092'
+}
+(node:17820) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 interactionCreate listeners added to [Client]. Use emitter.setMaxListeners() to increase limit
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:13432) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 interactionCreate listeners added to [Client]. Use emitter.setMaxListeners() to increase limit
+(Use `node --trace-warnings ...` to show where the warning was created)
+ReferenceError: Hypixel is not defined
+    at Client.<anonymous> (C:\Users\edwar\OneDrive\Desktop\SUPERGEN\src\index.js:85:19)
+    at Client.emit (node:events:524:35)
+    at InteractionCreateAction.handle (C:\Users\edwar\node_modules\discord.js\src\client\actions\InteractionCreate.js:97:12)
+    at module.exports [as INTERACTION_CREATE] (C:\Users\edwar\node_modules\discord.js\src\client\websocket\handlers\INTERACTION_CREATE.js:4:36)
+    at WebSocketManager.handlePacket (C:\Users\edwar\node_modules\discord.js\src\client\websocket\WebSocketManager.js:355:31)
+    at WebSocketManager.<anonymous> (C:\Users\edwar\node_modules\discord.js\src\client\websocket\WebSocketManager.js:239:12)
+    at WebSocketManager.emit (C:\Users\edwar\node_modules\@vladfrangu\async_event_emitter\dist\index.js:282:31)
+    at WebSocketShard.<anonymous> (C:\Users\edwar\node_modules\@discordjs\ws\dist\index.js:1173:51)
+    at WebSocketShard.emit (C:\Users\edwar\node_modules\@vladfrangu\async_event_emitter\dist\index.js:282:31)
+    at WebSocketShard.onMessage (C:\Users\edwar\node_modules\@discordjs\ws\dist\index.js:988:14)
+ReferenceError: Feather is not defined
+    at Client.<anonymous> (C:\Users\edwar\OneDrive\Desktop\SUPERGEN\src\index.js:109:19)
+    at Client.emit (node:events:524:35)
+    at InteractionCreateAction.handle (C:\Users\edwar\node_modules\discord.js\src\client\actions\InteractionCreate.js:97:12)
+    at module.exports [as INTERACTION_CREATE] (C:\Users\edwar\node_modules\discord.js\src\client\websocket\handlers\INTERACTION_CREATE.js:4:36)
+    at WebSocketManager.handlePacket (C:\Users\edwar\node_modules\discord.js\src\client\websocket\WebSocketManager.js:355:31)
+    at WebSocketManager.<anonymous> (C:\Users\edwar\node_modules\discord.js\src\client\websocket\WebSocketManager.js:239:12)
+    at WebSocketManager.emit (C:\Users\edwar\node_modules\@vladfrangu\async_event_emitter\dist\index.js:282:31)
+    at WebSocketShard.<anonymous> (C:\Users\edwar\node_modules\@discordjs\ws\dist\index.js:1173:51)
+    at WebSocketShard.emit (C:\Users\edwar\node_modules\@vladfrangu\async_event_emitter\dist\index.js:282:31)
+    at WebSocketShard.onMessage (C:\Users\edwar\node_modules\@discordjs\ws\dist\index.js:988:14)
+ReferenceError: Badlion is not defined
+    at Client.<anonymous> (C:\Users\edwar\OneDrive\Desktop\SUPERGEN\src\index.js:93:19)
+    at Client.emit (node:events:524:35)
+    at InteractionCreateAction.handle (C:\Users\edwar\node_modules\discord.js\src\client\actions\InteractionCreate.js:97:12)
+    at module.exports [as INTERACTION_CREATE] (C:\Users\edwar\node_modules\discord.js\src\client\websocket\handlers\INTERACTION_CREATE.js:4:36)
+    at WebSocketManager.handlePacket (C:\Users\edwar\node_modules\discord.js\src\client\websocket\WebSocketManager.js:355:31)
+    at WebSocketManager.<anonymous> (C:\Users\edwar\node_modules\discord.js\src\client\websocket\WebSocketManager.js:239:12)
+    at WebSocketManager.emit (C:\Users\edwar\node_modules\@vladfrangu\async_event_emitter\dist\index.js:282:31)
+    at WebSocketShard.<anonymous> (C:\Users\edwar\node_modules\@discordjs\ws\dist\index.js:1173:51)
+    at WebSocketShard.emit (C:\Users\edwar\node_modules\@vladfrangu\async_event_emitter\dist\index.js:282:31)
+    at WebSocketShard.onMessage (C:\Users\edwar\node_modules\@discordjs\ws\dist\index.js:988:14)
+(node:24552) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 interactionCreate listeners added to [Client]. Use emitter.setMaxListeners() to increase limit
+(Use `node --trace-warnings ...` to show where the warning was created)
+DiscordAPIError[10003]: Unknown Channel
+    at handleErrors (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1072:23)
+    at async SequentialHandler.queueRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:913:14)
+    at async _REST.request (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1218:22)
+    at async GuildChannelManager.delete (C:\Users\edwar\node_modules\discord.js\src\managers\GuildChannelManager.js:498:5)
+    at async TextChannel.delete (C:\Users\edwar\node_modules\discord.js\src\structures\GuildChannel.js:467:5) {
+  requestBody: { files: undefined, json: undefined },
+  rawError: { message: 'Unknown Channel', code: 10003 },
+  code: 10003,
+  status: 404,
+  method: 'DELETE',
+  url: 'https://discord.com/api/v10/channels/1166399374155337738'
+}
+DiscordAPIError[10003]: Unknown Channel
+    at handleErrors (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1072:23)
+    at async SequentialHandler.queueRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:913:14)
+    at async _REST.request (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1218:22)
+    at async GuildChannelManager.delete (C:\Users\edwar\node_modules\discord.js\src\managers\GuildChannelManager.js:498:5)
+    at async TextChannel.delete (C:\Users\edwar\node_modules\discord.js\src\structures\GuildChannel.js:467:5) {
+  requestBody: { files: undefined, json: undefined },
+  rawError: { message: 'Unknown Channel', code: 10003 },
+  code: 10003,
+  status: 404,
+  method: 'DELETE',
+  url: 'https://discord.com/api/v10/channels/1166399374155337738'
+}
+DiscordAPIError[10003]: Unknown Channel
+    at handleErrors (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1072:23)
+    at async SequentialHandler.queueRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:913:14)
+    at async _REST.request (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1218:22)
+    at async GuildChannelManager.delete (C:\Users\edwar\node_modules\discord.js\src\managers\GuildChannelManager.js:498:5)
+    at async TextChannel.delete (C:\Users\edwar\node_modules\discord.js\src\structures\GuildChannel.js:467:5) {
+  requestBody: { files: undefined, json: undefined },
+  rawError: { message: 'Unknown Channel', code: 10003 },
+  code: 10003,
+  status: 404,
+  method: 'DELETE',
+  url: 'https://discord.com/api/v10/channels/1166399374155337738'
+}
+DiscordAPIError[10003]: Unknown Channel
+    at handleErrors (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1072:23)
+    at async SequentialHandler.queueRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:913:14)
+    at async _REST.request (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1218:22)
+    at async GuildChannelManager.delete (C:\Users\edwar\node_modules\discord.js\src\managers\GuildChannelManager.js:498:5)
+    at async TextChannel.delete (C:\Users\edwar\node_modules\discord.js\src\structures\GuildChannel.js:467:5) {
+  requestBody: { files: undefined, json: undefined },
+  rawError: { message: 'Unknown Channel', code: 10003 },
+  code: 10003,
+  status: 404,
+  method: 'DELETE',
+  url: 'https://discord.com/api/v10/channels/1166399358397317251'
+}
+DiscordAPIError[10003]: Unknown Channel
+    at handleErrors (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1072:23)
+    at async SequentialHandler.queueRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:913:14)
+    at async _REST.request (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1218:22)
+    at async GuildChannelManager.delete (C:\Users\edwar\node_modules\discord.js\src\managers\GuildChannelManager.js:498:5)
+    at async TextChannel.delete (C:\Users\edwar\node_modules\discord.js\src\structures\GuildChannel.js:467:5) {
+  requestBody: { files: undefined, json: undefined },
+  rawError: { message: 'Unknown Channel', code: 10003 },
+  code: 10003,
+  status: 404,
+  method: 'DELETE',
+  url: 'https://discord.com/api/v10/channels/1166399358397317251'
+}
+DiscordAPIError[10003]: Unknown Channel
+    at handleErrors (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1072:23)
+    at async SequentialHandler.queueRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:913:14)
+    at async _REST.request (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1218:22)
+    at async GuildChannelManager.delete (C:\Users\edwar\node_modules\discord.js\src\managers\GuildChannelManager.js:498:5)
+    at async TextChannel.delete (C:\Users\edwar\node_modules\discord.js\src\structures\GuildChannel.js:467:5) {
+  requestBody: { files: undefined, json: undefined },
+  rawError: { message: 'Unknown Channel', code: 10003 },
+  code: 10003,
+  status: 404,
+  method: 'DELETE',
+  url: 'https://discord.com/api/v10/channels/1166399358397317251'
+}
+DiscordAPIError[10003]: Unknown Channel
+    at handleErrors (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1072:23)
+    at async SequentialHandler.queueRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:913:14)
+    at async _REST.request (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1218:22)
+    at async GuildChannelManager.delete (C:\Users\edwar\node_modules\discord.js\src\managers\GuildChannelManager.js:498:5)
+    at async TextChannel.delete (C:\Users\edwar\node_modules\discord.js\src\structures\GuildChannel.js:467:5) {
+  requestBody: { files: undefined, json: undefined },
+  rawError: { message: 'Unknown Channel', code: 10003 },
+  code: 10003,
+  status: 404,
+  method: 'DELETE',
+  url: 'https://discord.com/api/v10/channels/1166399343822114906'
+}
+DiscordAPIError[10003]: Unknown Channel
+    at handleErrors (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1072:23)
+    at async SequentialHandler.queueRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:913:14)
+    at async _REST.request (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1218:22)
+    at async GuildChannelManager.delete (C:\Users\edwar\node_modules\discord.js\src\managers\GuildChannelManager.js:498:5)
+    at async TextChannel.delete (C:\Users\edwar\node_modules\discord.js\src\structures\GuildChannel.js:467:5) {
+  requestBody: { files: undefined, json: undefined },
+  rawError: { message: 'Unknown Channel', code: 10003 },
+  code: 10003,
+  status: 404,
+  method: 'DELETE',
+  url: 'https://discord.com/api/v10/channels/1166399343822114906'
+}
+DiscordAPIError[10003]: Unknown Channel
+    at handleErrors (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1072:23)
+    at async SequentialHandler.queueRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:913:14)
+    at async _REST.request (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1218:22)
+    at async GuildChannelManager.delete (C:\Users\edwar\node_modules\discord.js\src\managers\GuildChannelManager.js:498:5)
+    at async TextChannel.delete (C:\Users\edwar\node_modules\discord.js\src\structures\GuildChannel.js:467:5) {
+  requestBody: { files: undefined, json: undefined },
+  rawError: { message: 'Unknown Channel', code: 10003 },
+  code: 10003,
+  status: 404,
+  method: 'DELETE',
+  url: 'https://discord.com/api/v10/channels/1166399343822114906'
+}
+DiscordAPIError[10003]: Unknown Channel
+    at handleErrors (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1072:23)
+    at async SequentialHandler.queueRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:913:14)
+    at async _REST.request (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1218:22)
+    at async GuildChannelManager.delete (C:\Users\edwar\node_modules\discord.js\src\managers\GuildChannelManager.js:498:5)
+    at async TextChannel.delete (C:\Users\edwar\node_modules\discord.js\src\structures\GuildChannel.js:467:5) {
+  requestBody: { files: undefined, json: undefined },
+  rawError: { message: 'Unknown Channel', code: 10003 },
+  code: 10003,
+  status: 404,
+  method: 'DELETE',
+  url: 'https://discord.com/api/v10/channels/1166399326231203880'
+}
+DiscordAPIError[10003]: Unknown Channel
+    at handleErrors (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1072:23)
+    at async SequentialHandler.queueRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:913:14)
+    at async _REST.request (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1218:22)
+    at async GuildChannelManager.delete (C:\Users\edwar\node_modules\discord.js\src\managers\GuildChannelManager.js:498:5)
+    at async TextChannel.delete (C:\Users\edwar\node_modules\discord.js\src\structures\GuildChannel.js:467:5) {
+  requestBody: { files: undefined, json: undefined },
+  rawError: { message: 'Unknown Channel', code: 10003 },
+  code: 10003,
+  status: 404,
+  method: 'DELETE',
+  url: 'https://discord.com/api/v10/channels/1166399326231203880'
+}
+DiscordAPIError[10003]: Unknown Channel
+    at handleErrors (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:687:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async SequentialHandler.runRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1072:23)
+    at async SequentialHandler.queueRequest (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:913:14)
+    at async _REST.request (C:\Users\edwar\node_modules\@discordjs\rest\dist\index.js:1218:22)
+    at async GuildChannelManager.delete (C:\Users\edwar\node_modules\discord.js\src\managers\GuildChannelManager.js:498:5)
+    at async TextChannel.delete (C:\Users\edwar\node_modules\discord.js\src\structures\GuildChannel.js:467:5) {
+  requestBody: { files: undefined, json: undefined },
+  rawError: { message: 'Unknown Channel', code: 10003 },
+  code: 10003,
+  status: 404,
+  method: 'DELETE',
+  url: 'https://discord.com/api/v10/channels/1166399326231203880'
+}
